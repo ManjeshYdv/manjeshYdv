@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeshydv&label=Profile%20views&color=0e75b6&style=flat" alt="manjeshydv" /> </p>
 
-- 🌱 I’m currently learning **learning java**
+- 🌱 I’m currently **learning java**
 
 - 📝 I regularly write articles on [https://manjeshyada.blogspot.com/](https://manjeshyada.blogspot.com/)
 
