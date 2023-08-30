@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manjeshyadav98840@gmail.comm**
 
-- ⚡ Fun fact **i can put my leg back to my head😂**
+- ⚡ Fun fact **i can put my leg back to my neck😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
