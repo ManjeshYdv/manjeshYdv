@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,javascript,java & C programing**
 
-- 📫 How to reach me **manjeshyadav98840@gmail.comm**
+- 📫 How to reach me **manjeshyadav98840@gmail.com**
 
 - ⚡ Fun fact **i can put my leg back to my neck😂**
 
