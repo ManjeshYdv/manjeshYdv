@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://manjeshyada.blogspot.com/](https://manjeshyada.blogspot.com/)
 
-- 💬 Ask me about **HTML,CSS,javascript,java & C programing**
+- 💬 Ask me about **HTML,CSS,javascript,java,SQL & C programing**
 
 - 📫 How to reach me **manjeshyadav98840@gmail.com**
 
