@@ -1,6 +1,6 @@
 ![logo](https://github.com/ManjeshYdv/manjeshYdv/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Manjesh kumar Yadav</h1>
-<h3 align="center">AI and ML engineers</h3>
+<h3 align="center">AI and ML engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeshydv&label=Profile%20views&color=0e75b6&style=flat" alt="manjeshydv" /> </p>
 
